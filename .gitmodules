@@ -49,3 +49,21 @@
 [submodule "Civ6Fate-JeanneAlter"]
 	path = Civ6Fate-JeanneAlter
 	url = https://github.com/HaoJun0823/Civ6Fate-JeanneAlter
+[submodule "Civ6-MultiplexPatheon"]
+	path = Civ6-MultiplexPatheon
+	url = https://github.com/HaoJun0823/Civ6-MultiplexPatheon
+[submodule "Civ6Fate-Anastasia"]
+	path = Civ6Fate-Anastasia
+	url = https://github.com/HaoJun0823/Civ6Fate-Anastasia
+[submodule "Civ6FFXIV-Mod-Project"]
+	path = Civ6FFXIV-Mod-Project
+	url = https://github.com/HaoJun0823/Civ6FFXIV-Mod-Project
+[submodule "CIV-VI-MOD-SSD"]
+	path = CIV-VI-MOD-SSD
+	url = https://github.com/HaoJun0823/CIV-VI-MOD-SSD
+[submodule "CIV6_Secret_Society_All_Effect"]
+	path = CIV6_Secret_Society_All_Effect
+	url = https://github.com/HaoJun0823/CIV6_Secret_Society_All_Effect
+[submodule "CIV6-Old-GoddessOfAbundance"]
+	path = CIV6-Old-GoddessOfAbundance
+	url = https://github.com/HaoJun0823/CIV6-Old-GoddessOfAbundance
