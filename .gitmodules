@@ -67,3 +67,6 @@
 [submodule "CIV6-Old-GoddessOfAbundance"]
 	path = CIV6-Old-GoddessOfAbundance
 	url = https://github.com/HaoJun0823/CIV6-Old-GoddessOfAbundance
+[submodule "CIV6-Ark-WanQing"]
+	path = CIV6-Ark-WanQing
+	url = https://github.com/HaoJun0823/CIV_VI_ARK_WANQING
